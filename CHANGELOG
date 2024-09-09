@@ -1,0 +1,49 @@
+*   5ba5f600 - (HEAD -> release/3.10.0, tag: develop-290, origin/develop, develop) Merge pull request #351 from tangem/IOS-6522_fix_alert_message
+|\  
+| * 89e12add - IOS-6522 Fix alert message
+|/  
+*   d3f79b59 - (tag: develop-289, tag: 39) Merge pull request #349 from tangem/IOS-6620_update_privacy_manifest
+|\  
+| * 22f5bcd5 - IOS-6620 Remove unsupported devices
+| * 35c8b3d1 - IOS-6620 Add Privacy Manifest into example
+| * 9cde2028 - IOS-6620 Update privacy manifest
+|/  
+*   7a1ff80a - (tag: develop-288) Merge pull request #347 from tangem/IOS-5193_refactor_extension
+|\  
+| * 9cab3b95 - IOS-5193 Refactor extensions
+|/  
+*   b2b15a41 - (tag: develop-287) Merge pull request #346 from tangem/IOS-5193_add_convenience_method
+|\  
+| * 5a77a2f3 - IOS-5193 Add convenience method
+|/  
+*   151522de - (tag: develop-286) Merge pull request #344 from tangem/feature/IOS-6296_backup_errors_update
+|\  
+| * 36fc8529 - Show separate messages for backupFailedAlreadyCreated and noActiveBackup errors
+|/  
+*   24d07f57 - (tag: develop-285, tag: 37) Merge pull request #343 from tangem/IOS-6210_add_logs_backup
+|\  
+| * d2fb40ea - IOS-6210 Add backup logs
+|/  
+*   68fcf888 - (tag: develop-284) Merge pull request #341 from tangem/IOS-5986_skip_derivation_errors
+|\  
+| *   a205aca6 - Merge branch 'develop' into IOS-5986_skip_derivation_errors
+| |\  
+| |/  
+|/|   
+* |   94c1a699 - (tag: develop-283) Merge pull request #342 from tangem/feature/IOS-6085-seed-make-words-count-public
+|\ \  
+| * | 63546fbf - IOS-6085: Make EntropyLength words count public
+|/ /  
+| * 25e83ac5 - IOS-5986 Ignore only concrete errors
+| * 2ffb346e - IOS-5986 Skip derivation errors
+|/  
+*   7ddce67f - (tag: develop-282) Merge pull request #338 from tangem/IOS-5674_fix_reader
+|\  
+| *   b6fadf9e - Merge branch 'develop' into IOS-5674_fix_reader
+| |\  
+| |/  
+|/|   
+* | 5d860b54 - (tag: develop-281, origin/release/0.0.2) Merge pull request #339 from tangem/master
+ /  
+* 1517748d - IOS-5674 Refactor code
+* 5c1a6ed1 - (origin/release/0.0.3, origin/release/0.0.1) IOS-5674 Fix reader

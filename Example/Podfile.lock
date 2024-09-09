@@ -1,0 +1,16 @@
+PODS:
+  - TangemSdk (3.8.0)
+
+DEPENDENCIES:
+  - TangemSdk (from `../`)
+
+EXTERNAL SOURCES:
+  TangemSdk:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TangemSdk: 61e07ff112d4095cfa688fa7d4694e59fa29f76d
+
+PODFILE CHECKSUM: fb4745483d8583db4c8ae8aa3ccbde86ca112a6b
+
+COCOAPODS: 1.14.3
